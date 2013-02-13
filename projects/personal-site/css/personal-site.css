@@ -1,0 +1,49 @@
+body {
+	background: #ccc;
+	margin: 0 auto;
+	font-family: helvetica, sans-serif;
+	line-height: 1.2em;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	padding: 15px 20px;
+	background: black;
+	color: #fff;
+}
+
+h2 {
+	color: purple;
+	padding: 5px;
+}
+
+.container {
+	background: #fff;
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+#menu {
+	margin:0;
+	padding:5px 0;
+	text-align: center;
+}
+
+#menu li {
+	list-style-type:none;
+	display:inline;
+	width:100px;
+}
+
+#menu a {
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 5px;
+}
