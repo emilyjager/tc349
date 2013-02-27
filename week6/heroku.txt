@@ -1,0 +1,5 @@
+At first glance, I liked the way that the website is set up, but I'm not a big fan of the dark color scheme. I like how the site is sectioned off with the header and footer and then the middle information section. The white (or dark blueish) space is evenly spaced out and you can tell where each section ends/starts because it is a different background color. 
+
+One section I think can be improved on is the add-ons page. There has to be a better way to organize the apps so that you don't have to keep scrolling all the way down the page. Maybe they could use multiple columns or have the scroll bar section stay anchored like the one on the pricing page, so that the header and footer do not move when you're scrolling.
+
+I think that the way they have their sections organized in the footer makes sense and everything is in the section I would have placed them. 
