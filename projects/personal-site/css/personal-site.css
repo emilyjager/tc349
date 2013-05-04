@@ -44,6 +44,7 @@ h2 {
 
 #menu li {
 	list-style-type:none;
+	display: inline;
 	width:100px;
 }
 
